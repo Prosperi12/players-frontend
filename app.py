@@ -4,8 +4,8 @@ import requests
 
 API_URL = "https://players-api-pal0.onrender.com"
 
-st.title("Players Frontend")
-st.write("This frontend connects to my Players API.")
+st.title("Best Players in the World")
+st.write("Type in you favorite player!")
 
 st.subheader("All Players")
 
